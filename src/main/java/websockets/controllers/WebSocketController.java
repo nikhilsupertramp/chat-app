@@ -23,6 +23,6 @@ public class WebSocketController {
                 new SimpleDateFormat("HH:mm:ss")
                         .format(new Date()) + "- " + message);
 
-        System.out.println(message);
+//        System.out.println(message);
     }
 }
